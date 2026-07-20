@@ -58,11 +58,11 @@ https://reqres.in
 
 ### Login Test Scenarios
 
-- ✅ Valid email and valid password
-- ✅ Invalid email and valid password
-- ✅ Valid email and invalid password
-- ✅ Missing password
-- ✅ Missing email
+- Valid email and valid password
+- Invalid email and valid password
+- Valid email and invalid password
+- Missing password
+- Missing email
 
 
 ## Assertions Used
